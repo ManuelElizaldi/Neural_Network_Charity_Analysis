@@ -23,3 +23,5 @@ The dataset used can be found in the resources folder
   - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
 
 ![](/Resources/screenshots/img1.png)
+
+Accuracy -> 
