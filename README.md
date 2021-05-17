@@ -21,3 +21,5 @@ The dataset used can be found in the resources folder
 - The objective of this model is to predict the outcome of the IS_SUCCESSFUL column. 
 - The features in the dataset are used to make predictions, including: 
   - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
+
+[](Neural_Network_Charity_Analysis/Resources/screenshots/img1.png)
